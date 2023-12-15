@@ -18,5 +18,8 @@
     "eslint-plugin-import": "^2.29.0",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "countdown": "^2.6.0"
   }
 }
